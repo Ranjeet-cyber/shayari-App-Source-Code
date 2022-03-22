@@ -1,0 +1,238 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Father\'s Day Shayari 2021</string>
+    <string name="swipe_left">Swipe left</string>
+    <string name="swipe_right">Swipe right</string>
+    <string name="view_swiped_left">%1$s swiped to left!</string>
+    <string name="view_swiped_right">%1$s swiped to right!</string>
+    <string name="dummy_text">Test</string>
+    <string name="dummy_fab">Fab Test</string>
+    <string name="reset">Reset stack</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="timeup">Time Up</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="alert">Internet Connection Alert</string>
+    <string name="warning1">please check your Internet connection</string>
+    <string name="warning">Warning</string>
+    <string name="text11">Are You Sure you want to Exit the Application</string>
+    <string name="get_ready">GET READY</string>
+    <string name="sample_story_content_description">Sample Story Content Description</string>
+    <string name="sample_story_title">Sample Story Title</string>
+    <string name="s">S</string>
+    <string name="daily">Airforce x group Book and solved papers 2021</string>
+    <string name="ok">Okey</string>
+    <string name="by">Powered By www.Teknologyupdate.com</string>
+    <string name="ranjit">Developed by Ranjeet Singh Dagar</string>
+    <string name="v">Version 1.1.2</string>
+    <string name="stack_reset">Stack reset!</string>
+    <string name="stack_empty">Card stack empty!</string>
+    <string name="github">View on GitHub</string>
+    <string-array name="all_quotes" tools:ignore="InconsistentArrays">
+        <item>किसी ने पूछा : वो कौन सी जगह है जहाँ हर ग़लती , हर जुर्म और हर गुनाह माफ़ हो जाता है ? बचे ने मुसकुराते हुऐ कहा, मेरे पापा का दील !! </item>
+        <item>एक बेहतर पिता नहीं बताता की कैसे जीना है, बल्कि वह उस तरह से जीता है और दिखाता है कैसे जीना है। </item>
+        <item>जब एक पिता पुत्र को देता है तो दोनों हँसते हैं ; जब एक पुत्र पिता को देता है तो दोनों रोते हैं !!</item>
+        <item>कुछ ऐसा काम करो कि आपके माता-पिता अपनी प्रार्थना में कहें । “हे प्रभु, हमें हर जन्म में ऐसी ही संतान देना !!! </item>
+        <item>हर आदमी बाप बन सकता है, लेकिन पिता बनने के लिए कुछ ख़ास चाहिए ! आई ऍम सॉरी बेटा ! </item>
+        <item>आपका गुस्सा देखा था मैंने, काश मैं समझ जाता वो गुस्सा नहीं, आपका अपनापन है ! I love you dad !</item>
+        <item>जिन मूर्तियों को इंसान बनाते हैं, हम उनकी तो पूजा करते हैं पर जिन्होंने हमें बनाया है हम उन माता-पिता की पूजा क्यूँ नहीं करते ?</item>
+        <item>ईश्वर का सबसे अनमोल तोहफा – मेरे मम्मी पापा :)</item>
+
+        <item> मिलने को तो हज़ारो लोग मिल जाते हैं , लेकिन हज़ारो गलतियां माफ़ करने वाले “माँ-बाप” दुबारा नहीं मिलते। </item>
+        <item>भुला के नींद अपनी सुलाया हमको, गिरा के आँसू अपने हँसाया हमको, दर्द कभी न देना उन हस्तियों को, खुदा ने माँ-बाप बनाया जिनको। </item>
+        <item>पापा मैं ….छोटी से बड़ी हो गयी क्यूँ ?!! </item>
+        <item>पापा ! आप हमेशा से ही अच्छे थे, मैं ही आपको नहीं समझ सका ! I love you Papa !</item>
+        <item> आप मेरे सब से अच्छे दोस्त हैं पापा !</item>
+        <item>माँ बाप कभी गलत नहीं होते …. उनसे गलत फैसले हो भी जाए, तो भी उनकी नियत साफ़ होती है …. उनसे कभी खफा मत होना :) </item>
+        <item>आप मेरे सब से अच्छे दोस्त हैं पापा !</item>
+        <item>कद्र करो माँ बाप की, दुआओं में उनकी ताकत है।</item>
+        <item>वह पिता बुद्धिमान है जो अपने बच्चे को जानता है .</item>
+        <item>पापा है मोहब्बत कअ नाम , पापा को हज़ारों सलाम, कर दे फ़िदा ज़िन्दगी , आये जो बच्चों के काम !!</item>
+        <item>जब किसी का पिता अच्छा ना रहा हो तो उसे एक बनना चाहिए  !!</item>
+        <item>एक सफल पिता बनने के लिए …एक निरपेक्ष नियम है : जब आपका बच्चा हो तो पहले दो साल तक उसे मत देखिये !!</item>
+        <item>अपने पिता के निधन पर मैंने एक निर्णय लिया कि मैं वो बनूँगा जो मुझे भगवान ने बनने के लिए भेजा है और अपनी पिता की तरह उपदेश नहीं दूंगा !!</item>
+        <item>इस दुनिया में बिना स्वार्थ के सिर्फ माता पिता ही प्यार कर सकते हैं !</item>
+        <item>कहते हैं की पहला प्यार कभी भुलाया नहीं जाता, फिर पता नहीं लोग अपने माँ बाप का प्यार क्यूँ भूल जाते हैं !.</item>
+        <item>उसे अपने लुक्स अपने पिता से मिले . वो एक प्लास्टिक सर्जन हैं .</item>
+        <item>मैं बचपन में एक पिता के संरक्षण के जितना किसी और ज़रुरत के बारे में नहीं सोच सकता .</item>
+        <item>आपको अपनी माँ की ममता के योग्य नहीं बनाना है . आपको अपने पिता के प्रेम के योग्य बनाना है . </item>
+        <item>मैंने कभी भी ऐसा कुछ नहीं किया है जो मुझे अपने बच्चों का पिता होने से अधिक ख़ुशी और इनाम दे सके . </item>
+        <item>मेरे पिता ने कहा था कि दुनिया में दो तरह के लोग होते हैं : देने वाले और लेने वाले . हो सकता है लेने वाले बढ़िया खा लें , लेकिन देने वाले अच्छी तरह सोते हैं .</item>
+        <item>मेरे पिता अपने पिता से डरते थे , मैं अपने पिता से डरता था , और मुझे ऐसी कोई वजह नहीं दिखाई देती कि मेरे बच्चे मुझसे क्यों ना डरें . </item>
+        <item>मैं बस अपने पिता के साथ अध्यन कर रहा था , मेरे लिए एक बहुत ही कठिन काम क्योंकि वह एक बहुत महान कौवाली गायक थे .</item>
+        <item>पूरे विश्व और अपने पिता को संतुष्ट करना असंभव है !!</item>
+        <item>मेरे पिता कहा करते थे , “उन्हें तुम्हे देखने दो तुम्हारा सूट नहीं . वो गौड़ होना चाहिए .”</item>
+        <item>अपने अंतरतम रहस्यों को अपनी माँ को बताने में और अपने अंतरतम भय को अपने पिता को बताने में सक्षम हों  !!</item>
+        <item>मैं जीने के लिए अपने पिता का ऋणी हूँ , पर अच्छी तरह जीने के लिए अपने शिक्षक का !!</item>
+        <item>एक बूढ़े होते हुए पिता के लिए उसकी बेटी से अधिक प्रिय और कुछ भी नहीं.</item>
+        <item>मैं मार्ग , सत्य , और जीवन हूँ . बिना मेरे माध्यम के कोई पिता तक नहीं जाता है .</item>
+        <item>मेरे पिता मुझसे हमेशा कहा करते थे कि जब तुम मरो , उस समय यदि तुम्हारे पांच अच्छे दोस्त हैं तो तुम्हारी ज़िन्दगी अच्छी रही है !!</item>
+        <item>एक पिता हमेशा अपनी बेटी को एक छोटी औरत बना रहा होता है . और जब वो औरत बन जाती है तो वापस उसे पहले जैसा बना देता है !!</item>
+        <item>एक पिता अपने बच्चों के लिए जो सबसे ज़रूरी चीज कर सकता है वो है उनकी माँ से प्रेम !!!</item>
+        <item>एक पिता सौ पुत्रों को शाषित करने के लिए पर्याप्त होता है , पर सौ पुत्र एक पिता के लिए नहीं !!!</item>
+        <item>पिता बनना पिता होने से कहीं आसान है !!!</item>
+        <item>शायद मेजबान और मेहमान पिता और पुत्र के लिए सबसे ख़ुशी भरा सम्बन्ध है !!!!</item>
+        <item>मेरे पिता ने मुझे सबसे महान तोहफा दिया जो कोई किसी को दे सकता है , उन्होंने मुझपर विश्वास किया .</item>
+        <item>हर बेटी की सबसे बड़ी विश होती है कि उसके पापा मुस्कराते रहे Happy Fathers Day</item>
+        <item>सपने तो मेरे थे पर उनको पूरा करने का रास्ता कोई और दिखाए जा रहा था और वो थे मेरे पापा Love you papa … Happy fathers day
+</item>
+        <item>मेरी छोटी ख्वाइश पर तुम जान लुटाते हो पापा Love you dad :)
+</item>
+        <item>नादान थे बचपन में पापा जो आपका दिल दुखाया करते थे :( miss you dad
+</item>
+        <item>पापा आप मेरा वो गुरूर है जो कोई भी कभी भी नहीं तोड़ सकता :) Happy Fathers Day
+!</item>
+        <item>अगर ईश्वर का रूप देखना है तो एकबार अपने ईश्वर समान पिता को देख लेना।
+</item>
+        <item>हर लड़की का पहला प्यार उसके पापा :) :)
+</item>
+        <item>शौंक तो पिता की कमाई से पूरे होते हैं अपनी कमाई से तो बस गुज़ारे होते है
+बाजार में सब कुछ मिलता है बस माँ बाप का प्यार नहीं मिलता
+</item>
+        <item>माँ बाप के पास बैठने के दो फायदे हैं – एक आप कभी बड़े नहीं होते दूसरा माँ बाप कभी बूढ़े नहीं होते Love you mom dad
+</item>
+        <item>पिता नीम के पेड़ जैसा होता है उसके पत्ते भले ही कड़वे हो पर वो छाया ठंडी देता है
+</item>
+        <item>मेरा साहस , मेरी इज़्ज़त , मेरा सम्मान है पिता ,
+मेरी ताकत, मेरी पूँजी , मेरी पहचान है पिता।</item>
+        <item>कुछ लोगों का प्यार कभी नहीं बदलता उनको माँ बाप कहा जाता है :) :)
+</item>
+
+    </string-array>
+    <string-array name="all_quotes_english" tools:ignore="InconsistentArrays">
+        <item>Daddy is my special friend,
+The two of us are buddies.
+I always like the things we do,
+I’m thankful for my daddy.
+
+Happy Fathers Day</item>
+        <item>Khushiyo se bhara har pal hota hai,
+Zindagi me sunhera har kal hota hai
+Milti hain kamyabi un ko,
+Jinke sar par pita ka haath hota hai.
+
+Happy Papa’s Day </item>
+        <item>I am indeed blessed to have
+Someone like you as my father
+On this special day
+I’d like to thank you for everything
+You are my hero dad. I Love You.
+
+Happy Fathers Day Dad</item>
+        <item>Happy Fathers day means more
+Than have a happy day
+It means a love you 1st of all
+Then thanks for all you do
+It means you mean a lot to me
+And that I honor you.
+
+Wish You Happy Fathers Day</item>
+        <item>Pita k bina zindagi viran hoti hai,
+Tanha safar me har rah sunsan hoti hai,
+Zindagi mein pita ka hona jaroori hai,
+Pita k sath se har raah asaan hoti hai.</item>
+        <item>A dad is someone who
+Holds you when you cry,
+Scolds you when you break the rules,
+Shines with pride when you succeed,
+And has faith in you even when you fail</item>
+        <item>"A father is someone you look up to no matter how tall you grow."</item>
+        <item>On Father’s Day, let’s review the most important lesson learned from my dad: Coffee</item>
+
+        <item>You‘ll always be dad to the bone</item>
+        <item>My father gave me the greatest gift anyone could give another person: He believed in me</item>
+        <item>A father is someone you look up to no matter how tall you grow</item>
+        <item>My father didn‘t tell me how to live. He lived and let me watch him do it</item>
+        <item>Anyone can be a father, but it takes someone special to be a dad</item>
+        <item>Really glad I was drafted to your team.</item>
+        <item>I still have no idea how to change a tire, but you’re only a phone call away!</item>
+        <item>In honor of your infamous dad jokes… Are you a boulder? Because you totally rock.</item>
+        <item>Thank you for loving me even on my worst days.</item>
+        <item>My love for you is out of this world—Yoda best, Dad.</item>
+        <item>I’m so glad that I inherited your leadership, and not your dance moves.</item>
+        <item>You’re a man of few words, but many talents.</item>
+        <item>What’s a higher title than King? Papa!</item>
+        <item>I love you, even despite your bad jokes.</item>
+        <item>Happy Father’s Day to all the great dads out there. Especially, mine. I will always be daddy’s little girl. I am very grateful for all that you do. Love you!</item>
+        <item>This is for the women that have to play the role of a Mother and a Father to their children, Happy Father’s Day!</item>
+        <item>It is easier for a father to have children than for children to have a real father. I’m glad to have u dad.</item>
+        <item>The greatest gift I ever had came from God; I call him Dad!</item>
+        <item>"Some people don't believe in heroes, but they haven't met my dad."</item>
+        <item>"Having a kid is like falling in love for the first time when you're 12, but every single day."
+
+- Mike Myers</item>
+        <item>Fathers are like candles. They make daylight out of the darkness. A father is someone who is concerned with everything we do.</item>
+        <item>The only person on earth who is unpraised and unnoticed. That is none other than that a father!</item>
+        <item>“It is easier to build strong children than to repair broken men.”
+
+- Frederick Douglass</item>
+        <item>A father becomes poor just to make his children rich!</item>
+        <item>A father guides his children to reach the goals. I love my father. Happy Father’s Day.</item>
+        <item>Today is fathers day and I wish to show my gratitude to my father for being the best father in the world.</item>
+        <item>“A father is neither an anchor to hold us back nor a sail to take us there, but a guiding light whose love shows us the way.”</item>
+        <item>Thank you, daddy, for all the times you stayed up late for me. For all the times you showered us with love and care. For all the wonderful moments you shared with us. For everything that you have taught us. I will always be happy to see you.</item>
+        <item>You are my very first love, dear dad. You have been the shining light of my life and the wonderful caring person who has been there for me. I would want my son to grow up to be just like you. Happy father’s day</item>
+        <item>I feel very safe with you in my life, father. You are the armour I never had because I know you will always protect me no matter what. Thank you for being there for me, daddy. Now and always.</item>
+        <item>I can see why mommy loves you so much. You are a wonderful man, a loving father, and a great human being all around. I cannot imagine my life without you in it. Have a wonderful day, daddy!</item>
+        <item>I could have given you gifts and flowers and chocolates and cakes but I know that you love the smile on my face the most. And that is because the smile appears every time I see you. Happy father’s day!</item>
+        <item>A father holds his daughter’s hand for a short while, but he holds her heart forever.</item>
+        <item>Happy Father’s Day to the most amazing dad, extraordinary husband and my best friend! Thank you for showing us that we are loved and protected every single day. We will do the same for you.शायद मेजबान और मेहमान पिता और पुत्र के लिए सबसे ख़ुशी भरा सम्बन्ध है !!!!</item>
+        <item>Happy Father’s Day to the man of my heart, the love of my life, and the daddy of our children.</item>
+        <item>My father is just like a candle to me who bring light in the darkness.</item>
+        <item>You give our children someone to respect, admire, and honor. You are a wonderful dad. Happy Father’s Day to my loving husband!
+</item>
+        <item>My father is someone who always provides a helping hand to me even if I don’t need any help.
+</item>
+        <item>Dad, you are the greatest hero in my life.
+</item>
+        <item>I can’t tell you what you mean to me, you’re my world dad.
+!</item>
+        <item>You are the pillar of strength and fountain of wisdom to me, my dad.
+</item>
+        <item>A girl child always sees his first hero in his father. May this day a father get relaxed to see you growing in his love.
+</item>
+        <item>A father always believes their children which is a great gift he can give to them.
+</item>
+        <item>Thank you, dad, for trusting in me and my abilities which always inspire me to do the best.
+</item>
+        <item>A father works silently without expecting any praises just for his family.
+</item>
+        <item>When a child grows up, it becomes the father’s best friend. Happy Father’s day to all.</item>
+        <item>No matter how much I grew up, I will always be a little child for my dad. Happy Father’s Day dad!
+</item>
+
+    </string-array>
+    <item name="blue" type="color">#9399FF</item>
+    <item name="purple" type="color">#8AFF4B</item>
+    <item name="green" type="color">#FFEC88</item>
+    <item name="orange" type="color">#FFEAC0</item>
+    <item name="red" type="color">#FF6E6E</item>
+    <item name="darkblue" type="color">#FFFFFF</item>
+    <item name="darkpurple" type="color">#E56FFF</item>
+    <item name="darkgreen" type="color">#DEFF9D</item>
+    <item name="darkorange" type="color">#3DBCFF</item>
+    <item name="darkred" type="color">#FF55B2</item>
+
+    <integer-array name="androidcolors">
+        <item>@color/blue</item>
+        <item>@color/purple</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/darkblue</item>
+        <item>@color/darkpurple</item>
+        <item>@color/darkgreen</item>
+        <item>@color/darkorange</item>
+        <item>@color/darkred</item>
+    </integer-array>
+</resources>

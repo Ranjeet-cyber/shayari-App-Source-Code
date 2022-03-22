@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="20dp"
+    android:id="@+id/layout_countainer"
+    android:layout_margin="20dp">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_countainer1"
+        android:layout_width="match_parent"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/circularbordersolid"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/text15"
+            android:padding="8dp"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:textColor="@color/black"
+            app:layout_constraintTop_toTopOf="parent"
+            android:background="@drawable/about"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:layout_width="45dp"
+            android:layout_marginEnd="4dp"
+            app:layout_constraintBottom_toBottomOf="@+id/text15"
+            android:contentDescription="@string/app_name"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/text15"
+            android:id="@+id/imageView15"
+            android:layout_height="45dp"
+
+            android:layout_marginRight="4dp" />
+
+        <TextView
+            android:id="@+id/text16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="40dp"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/imageView15"
+            app:layout_constraintVertical_bias="0.0"
+            tools:layout_editor_absoluteX="0dp" />
+
+        <TextView
+            android:id="@+id/text162"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="110dp"
+            android:layout_marginBottom="40dp"
+            android:textColor="@color/black"
+            android:padding="5dp"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/imageView15"
+            app:layout_constraintVertical_bias="1.0"
+            tools:layout_editor_absoluteX="0dp" />
+
+        <TextView
+            android:id="@+id/text161"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_marginBottom="40dp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/imageView15"
+            app:layout_constraintVertical_bias="0.155"
+            tools:layout_editor_absoluteX="31dp" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:textColor="@color/white"
+        android:background="@drawable/button_bg"
+        app:layout_constraintBottom_toBottomOf="@+id/layout_countainer1"
+        app:layout_constraintTop_toBottomOf="@+id/layout_countainer1"
+        android:textSize="14sp"
+        android:id="@+id/btnNo12"
+        android:layout_height="40dp"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,76 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Father\'s Day Shayari</string>
+    <string name="swipe_left">Swipe left</string>
+    <string name="swipe_right">Swipe right</string>
+    <string name="view_swiped_left">%1$s swiped to left!</string>
+    <string name="view_swiped_right">%1$s swiped to right!</string>
+    <string name="dummy_text">Test</string>
+    <string name="dummy_fab">Fab Test</string>
+    <string name="btn_de" tools:ignore="ExtraTranslation">Left</string>
+    <string name="btn_dp" tools:ignore="ExtraTranslation">right</string>
+    <string name="reset">Reset stack</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="timeup">Time Up</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="alert">Internet Connection Alert</string>
+    <string name="warning1">please check your Internet connection</string>
+    <string name="warning">Warning</string>
+    <string name="text11">Are You Sure you want to Exit the Application</string>
+    <string name="get_ready">GET READY</string>
+    <string name="sample_story_content_description">Sample Story Content Description</string>
+    <string name="sample_story_title">Sample Story Title</string>
+    <string name="s">S</string>
+    <string name="daily">Airforce x group Book and solved papers 2021</string>
+    <string name="ok">Okey</string>
+    <string name="by">Powered By update24hr</string>
+    <string name="ranjit">Developed by Ranjeet Singh Dagar</string>
+    <string name="v">Version 1.1.2</string>
+    <string name="stack_reset">Stack reset!</string>
+    <string name="stack_empty">Card stack empty!</string>
+    <string name="github">View on GitHub</string>
+    <string-array name="all_quotes">
+        <item>A man is born alone and dies alone. </item>
+        <item>Discover yourself and never stop fighting. </item>
+        <item>Make that one idea your life. </item>
+        <item>Silence touch souls. </item>
+        <item>Live life on your terms. </item>
+        <item>Inspiration gives results.</item>
+        <item>Give up illusory world.</item>
+        <item>Follow ideology that inspires</item>
+    </string-array>
+    <item name="blue" type="color">#74D9FF</item>
+    <item name="purple" type="color">#CE6BFF</item>
+    <item name="green" type="color">#76FF6C</item>
+    <item name="orange" type="color">#FFEAC0</item>
+    <item name="red" type="color">#FF6E6E</item>
+    <item name="darkblue" type="color">#FFFFFF</item>
+    <item name="darkpurple" type="color">#DA91FF</item>
+    <item name="darkgreen" type="color">#DEFF9D</item>
+    <item name="darkorange" type="color">#FFEB3B</item>
+    <item name="darkred" type="color">#9375FF</item>
+
+    <integer-array name="androidcolors">
+        <item>@color/blue</item>
+        <item>@color/purple</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/darkblue</item>
+        <item>@color/darkpurple</item>
+        <item>@color/darkgreen</item>
+        <item>@color/darkorange</item>
+        <item>@color/darkred</item>
+    </integer-array>
+</resources>

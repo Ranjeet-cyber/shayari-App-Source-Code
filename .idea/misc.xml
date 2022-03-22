@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/drawable/about.xml" value="0.16203703703703703" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/layout/aboutt.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/layout/activity_desc.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/layout/activity_desc2.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/layout/activity_desh.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/layout/activity_favorite.xml" value="0.17" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/layout/card.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/layout/nav_header.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/layout/row.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/menu/main.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/menu/main_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.240625" />
+        <entry key="..\:/AndroidStudioProjects/swipecardview/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.240625" />
+        <entry key="..\:/Users/ranje/AndroidStudioProjects/swipecardview/app/src/main/res/drawable/button_bg.xml" value="0.2364102564102564" />
+        <entry key="..\:/Users/ranje/AndroidStudioProjects/swipecardview/app/src/main/res/layout/activity_desc.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/ranje/AndroidStudioProjects/swipecardview/app/src/main/res/layout/activity_desc2.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/ranje/AndroidStudioProjects/swipecardview/app/src/main/res/layout/activity_desh.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/ranje/AndroidStudioProjects/swipecardview/app/src/main/res/layout/activity_favorite.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/ranje/AndroidStudioProjects/swipecardview/app/src/main/res/layout/activity_main.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/ranje/AndroidStudioProjects/swipecardview/app/src/main/res/layout/card.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/ranje/AndroidStudioProjects/swipecardview/app/src/main/res/layout/row.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/ranje/AndroidStudioProjects/swipecardview/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/ranje/AndroidStudioProjects/swipecardview/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21574074074074073" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/back12"
+    android:layout_height="match_parent"
+    android:clipChildren="false"
+    tools:context="MainActivity">
+
+    <Button
+        android:id="@+id/buttonSwipeLeft"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:background="@color/teal_200"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="swipe_left"/>
+
+    <Button
+        android:id="@+id/buttonSwipeRight"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:shadowRadius="@android:integer/config_longAnimTime"
+        android:background="@color/teal_200"
+        android:backgroundTint="@color/cardColorRed"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="swipe_right"/>
+
+    <link.fls.swipestack.SwipeStack
+        android:id="@+id/swipeStack"
+        android:layout_width="match_parent"
+        android:background="@drawable/back11"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/buttonSwipeLeft"
+        android:padding="20sp"
+        app:stack_rotation="5"
+        app:stack_size="3">
+
+    </link.fls.swipestack.SwipeStack>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fabAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:layout_margin="2dp"
+            android:src="@drawable/ic_baseline_repeat_24"
+            app:fabSize="normal" />
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</RelativeLayout>
